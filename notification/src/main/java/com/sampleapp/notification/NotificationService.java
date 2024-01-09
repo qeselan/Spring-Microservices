@@ -1,4 +1,4 @@
-package com.samepleapp.notification;
+package com.sampleapp.notification;
 
 import com.sampleapp.clients.notification.NotificationRequest;
 import org.springframework.stereotype.Service;

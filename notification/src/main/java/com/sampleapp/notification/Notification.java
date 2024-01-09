@@ -1,4 +1,4 @@
-package com.samepleapp.notification;
+package com.sampleapp.notification;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
